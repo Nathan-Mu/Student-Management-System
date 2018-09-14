@@ -1,0 +1,6 @@
+Andy Cheng, 987654321, Computing/English
+Andy Cheng, 987654321, Computing/English
+Susan Dally, 911221122, English
+Zak Whatever, 999999999, English/Maths
+Russell Crowe, 980808080, Computing
+Amy Lee, 958746123, Computing/English/Maths
